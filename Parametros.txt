@@ -1,0 +1,21 @@
+		tempo em horas
+Seville	Dublin	3				
+Seville	Berlin	3.25				
+Seville	Paris	2.35				
+Seville	Lisboa	1.1				
+Lisboa	Dublin	2.5				
+Lisboa	Berlin	3.25				
+Lisboa	Paris	2.3				
+Dublin	Berlin	2.15				
+Dublin	Paris	1.35				
+Berlin	Paris	1.55				
+						
+Maker	modelo	Class		Passageiros		Tonelada (cargo)
+Boing	737-700	3		89			10
+Boing	B767	4		181			20
+Boing	B777	5		314			25
+Boing	747-8	6		380			35
+Airbus	A-320	3		92			10
+Airbus	A-310	4		175			20
+Airbus	A330	5		305			25
+Airbus	A380	6		375			35
